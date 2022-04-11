@@ -1,3 +1,15 @@
+## 2.6.6
+
+- Update dependencies
+
+## 2.6.5
+
+- Update dependencies
+
+## 2.6.4
+
+- Update to Flutter 2.10.4
+
 ## 2.6.3
 
 - Fixed `looking up deactivated ancestor is unsafe` error. Thanks @felixgabler for the PR!
